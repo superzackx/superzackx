@@ -11,6 +11,8 @@ A self-taught website, JavaScript & Java developer.
 
 ### Get in touch
 - Mail: [Click here](mailto:superzackx@gmail.com).
+- Repl.IT: [Click here](https://repl.it/@SuperZack).
+- Website: [Click here](https://superzackx.me)
 
 ### Some Stats
 
