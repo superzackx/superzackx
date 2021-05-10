@@ -16,8 +16,6 @@ A self-taught website, JavaScript & Java developer.
 
 ### Some Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superzackx&layout=compact&theme=tokyonight" />
-
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=superzackx&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="superzackx's github stats" />
   
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superzackx&theme=tokyonight"/>
