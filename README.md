@@ -1,6 +1,6 @@
 ### Hi! I'm superzackx
 
-A self-taught website, JavaScript & Java developer.
+A self-taught website, JavaScript & Java developer. I'm ready to do any website project where I could get paid. Contact me by emailing me at ```superzackx@gmail.com```. PS: I wont charge much for the website.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%232965f1?style=flat-square&logo=css3&logoColor=white)
