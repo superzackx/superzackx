@@ -14,6 +14,11 @@ A self-taught website, JavaScript & Java developer. I'm ready to do any website 
 - Repl.IT: [Click here](https://repl.it/@SuperZack).
 - Website: [Click here](https://superzackx.me)
 
+### Donate!
+
+My Crypto Address: 0x20AC6ec877C3CdaEEaB2167109426B99064B060d
+Send anything even 0.0001 ETH
+
 ### Some Stats
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=superzackx&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="superzackx's github stats" />
