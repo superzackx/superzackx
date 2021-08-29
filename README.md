@@ -13,6 +13,7 @@ A self-taught website, JavaScript & Java developer. I'm ready to do any website 
 - Mail: [Click here](mailto:superzackx@gmail.com).
 - Repl.IT: [Click here](https://repl.it/@SuperZack).
 - Website: [Click here](https://superzackx.me)
+- Hiring: [Click here](https://www.fiverr.com/share/85yoPr)
 
 ### Donate!
 
