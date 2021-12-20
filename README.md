@@ -8,7 +8,7 @@ A self-taught website, JavaScript & C++ Dev. I like programming and breaking my 
 
 ### Get in touch
 
-- EMail: [Click here](mailto:superzackx@gmail.com).
+- Email: [Click here](mailto:superzackx@gmail.com).
 - Repl.IT: [Click here](https://repl.it/@SuperZack).
 - Website: [Click here](https://superzackx.me)
 - Hiring: [Click here](https://www.fiverr.com/share/85yoPr)
