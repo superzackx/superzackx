@@ -1,6 +1,6 @@
 ### Hi! I'm superzackx
 
-A self-taught website, JavaScript & C++ Dev. I like programming and breaking my Arch Linux installation. 
+A self-taught JavaScript, C++ and Blockchain Dev. I'm a data science enthusiast and I like to explore new technologies like Ethereum and Smart Contracts. I like programming and breaking my Arch Linux installation. I'm currently the CTO at [Starterss](https://starterss.com/)
 
 ![NodeJS](https://img.shields.io/badge/-Node.js-%2343853D?style=flat-square&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%23F7DF1E?style=flat-square&logo=Java&logoColor=black)
@@ -8,14 +8,9 @@ A self-taught website, JavaScript & C++ Dev. I like programming and breaking my 
 
 ### Get in touch
 
-- Email: [Click here](mailto:superzackx@gmail.com).
+- Email: superzackx@gmail.com
 - Repl.IT: [Click here](https://repl.it/@SuperZack).
 - Website: [Click here](https://superzackx.me)
-- Hiring: [Click here](https://www.fiverr.com/share/85yoPr)
-
-### Donate!
-
-My Crypto Address: 0xD7e417448de04F249d76D7F483AAA66d9690fF98
 
 ### Some Stats
 
