@@ -1,25 +1,25 @@
-### Hi! I'm superzackx
+## 👋 Hi, I’m Yash Bhatnagar
 
-A self-taught JavaScript, C++ and Blockchain Dev. I'm a data science enthusiast and I like to explore new technologies like Ethereum and Smart Contracts. I like programming and breaking my Arch Linux installation. I'm currently the CTO at [Starterss](https://starterss.com/)
+- 👀 I’m passionate about programming, football and gaming.
+- 🌱 I’m currently learning solidity and smart contracts.
+- 📫 Shoot me an email at superzackx@gmail.com.
 
-![NodeJS](https://img.shields.io/badge/-Node.js-%2343853D?style=flat-square&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-%23F7DF1E?style=flat-square&logo=Java&logoColor=black)
-![mongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+### 🛠 Tech Stack
 
-### Get in touch
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=for-the-badge&logo=solidity)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 
-- Email: superzackx@gmail.com
-- Repl.IT: [Click here](https://repl.it/@SuperZack).
-- Website: [Click here](https://superzackx.me)
+### ⚙️ GitHub Stats
 
-### Some Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=superzackx&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" alt="superzackx's github stats" />
-  
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superzackx&theme=tokyonight"/>
-  
-### Recent Works
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=superzackx&amp;repo=DevLunch&amp;theme=tokyonight&amp;show_owner=false" alt="DevLunch">
-
-*I still like Debian more.*
+<a href="https://github.com/superzackx">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=superzackx&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=superzackx&layout=compact&langs_count=8&theme=algolia"/>
+</a>
