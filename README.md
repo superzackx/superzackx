@@ -2,7 +2,7 @@
 
 - 👀 I’m passionate about programming, football and gaming.
 - 🌱 I’m currently learning solidity and smart contracts.
-- 📫 Shoot me an email at superzackx@gmail.com.
+- 📫 Shoot me an email at yashthebhatnagar@gmail.com.
 
 ### 🛠 Tech Stack
 
