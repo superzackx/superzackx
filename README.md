@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Yash Bhatnagar
 
 - 👀 I’m passionate about programming, football and gaming.
-- 🌱 I’m currently learning solidity and smart contracts.
+- 🌱 I’m currently learning prompt engineering and AI tech.
 - 📫 Shoot me an email at yashthebhatnagar@gmail.com.
 
 ### 🛠 Tech Stack
